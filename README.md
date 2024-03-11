@@ -1,5 +1,7 @@
 # Awesome-Traffic-Simulation
 
+Papers related to data-driven traffic agent or traffic scene simulation for autonomous driving.
+
 - LimSim++: A Closed-Loop Platform for Deploying Multimodal LLMs in Autonomous Driving.
 [arXiv](https://arxiv.org/abs/2402.01246)
 
