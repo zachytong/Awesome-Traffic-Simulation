@@ -105,10 +105,11 @@ Listed by order of time(not strictly):
 - TrajGen: Generating Realistic and Diverse Trajectories with Reactive and Feasible Agent Behaviors for Autonomous Driving.
 [arXiv](https://arxiv.org/abs/2203.16792)
 
-
 - Generating Useful Accident-Prone Driving Scenarios via a Learned Traffic Prior.
 [arXiv](https://arxiv.org/abs/2112.05077)
 
+- Learning to Collide: An Adaptive Safety-Critical Scenarios Generating Method.
+[arXiv](https://arxiv.org/abs/2003.01197)
 
 - SceneGen: Learning to Generate Realistic Traffic Scenes.
 [arXiv](https://arxiv.org/abs/2101.06541)
