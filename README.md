@@ -9,6 +9,9 @@ Papers related to data-driven traffic agent or traffic scene simulation for auto
 ## Papers
 > Listed by order of time(not strictly)
 
+- LitSim: Conflict-aware Policy for Long-term Interactive Traffic Simulation.
+[arXiv](https://arxiv.org/abs/2403.04299)
+
 - LimSim++: A Closed-Loop Platform for Deploying Multimodal LLMs in Autonomous Driving.
 [arXiv](https://arxiv.org/abs/2402.01246)
 [Project](https://pjlab-adg.github.io/limsim_plus/)
