@@ -35,6 +35,7 @@ Papers related to data-driven traffic agent or traffic scene simulation for auto
 
 - SceneDM: Scene-level Multi-agent Trajectory Generation with Consistent Diffusion Models.
 [arXiv](https://arxiv.org/abs/2311.15736)
+[Project](https://alperen-hub.github.io/SceneDM/)
 
 - Data-driven Traffic Simulation: A Comprehensive Review.
 [arXiv](https://arxiv.org/abs/2310.15975)
@@ -94,7 +95,6 @@ Papers related to data-driven traffic agent or traffic scene simulation for auto
 - AdvSim: Generating Safety-Critical Scenarios for Self-Driving Vehicles.
 [arXiv](https://arxiv.org/abs/2101.06549)
 
-
 - Traffic-Aware Autonomous Driving with Differentiable Traffic Simulation.
 [arXiv](https://arxiv.org/abs/2210.03772)
 
@@ -150,3 +150,4 @@ Papers related to data-driven traffic agent or traffic scene simulation for auto
 
 ## Acknowledgement
 - [End-to-end Autonomous Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving)
+- [Awesome-Trajectory-Motion-Prediction-Papers](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)
