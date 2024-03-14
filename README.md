@@ -35,6 +35,7 @@ Papers related to data-driven traffic agent or traffic scene simulation for auto
 [arXiv](https://arxiv.org/abs/2401.00391)
 
 - RealGen: Retrieval Augmented Generation for Controllable Traffic Scenarios.
+[Project](https://realgen.github.io/)
 [arXiv](https://arxiv.org/abs/2312.13303)
 
 - RITA: Boost Driving Simulators with Realistic Interactive Traffic Flow.
