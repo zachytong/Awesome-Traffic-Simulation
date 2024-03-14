@@ -1,6 +1,6 @@
 # Awesome-Traffic-Simulation
 
-Papers related to data-driven traffic agent or traffic scene simulation for autonomous driving. Welcome to contribute :)
+Papers related to data-driven traffic agent or traffic scene simulation for autonomous driving. Some papers focus on a more general traffic agent simulator, while some papers focus on safety-critical behavior or scenario in particular. Welcome to contribute :)
 
 ## TODO
 - [ ] include related projects
