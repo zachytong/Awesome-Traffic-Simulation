@@ -6,6 +6,13 @@ Papers related to data-driven traffic agent or traffic scene simulation for auto
 - [ ] include related projects
 - [ ] add tag of time, conference or jounal if any
 
+## Workshops
+- CVPR2024 Workshop on Data-Driven Autonomous Driving Simulation.
+[Website](https://agents4ad.github.io/)
+
+- IROS2023 Workshop on Traffic Agent Modeling for Autonomous Driving Simulation.
+[Website](https://agents4ad.github.io/2023/)
+
 ## Papers
 > Listed by order of time(not strictly)
 
