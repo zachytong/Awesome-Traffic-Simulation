@@ -16,6 +16,10 @@ Papers related to data-driven traffic agent or traffic scene simulation for auto
 ## Papers
 > Listed by order of time(not strictly)
 
+- CaDRE: Controllable and Diverse Generation of Safety-Critical Driving
+Scenarios using Real-World Trajectories
+[arXiv](https://arxiv.org/abs/2403.13208)
+
 - Dream to Drive with Predictive Individual World Model.
 [Project](https://sites.google.com/view/piwm)
 [Github](https://github.com/gaoyinfeng/PIWM)
