@@ -16,8 +16,11 @@ Papers related to data-driven traffic agent or traffic scene simulation for auto
 ## Papers
 > Listed by order of time(not strictly)
 
-- CaDRE: Controllable and Diverse Generation of Safety-Critical Driving
-Scenarios using Real-World Trajectories
+- SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models.
+[arXiv](https://arxiv.org/abs/2403.17933)
+[Github](https://github.com/autonomousvision/sledge)
+
+- CaDRE: Controllable and Diverse Generation of Safety-Critical Driving Scenarios using Real-World Trajectories.
 [arXiv](https://arxiv.org/abs/2403.13208)
 
 - Dream to Drive with Predictive Individual World Model.
