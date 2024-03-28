@@ -48,6 +48,10 @@ Papers related to data-driven traffic agent or traffic scene simulation for auto
 [Project](https://pjlab-adg.github.io/OASim/)
 [Github](https://github.com/PJLab-ADG/OASim)
 
+- Trajeglish: Learning the Language of Driving Scenarios.
+[Website](https://research.nvidia.com/labs/toronto-ai/trajeglish/)
+[arXiv](https://arxiv.org/abs/2312.04535)
+
 - Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion.
 [arXiv](https://arxiv.org/abs/2401.00391)
 
