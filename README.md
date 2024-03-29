@@ -1,5 +1,5 @@
 # Awesome-Traffic-Simulation
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.03.20-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.03.29-lightgrey.svg)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Papers related to data-driven traffic agent or traffic scene simulation for autonomous driving. Some papers focus on a more general traffic agent simulator, while some papers focus on safety-critical behavior or scenario in particular. Welcome to contribute :)
