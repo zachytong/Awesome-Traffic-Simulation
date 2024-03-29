@@ -3,8 +3,9 @@
 Papers related to data-driven traffic agent or traffic scene simulation for autonomous driving. Some papers focus on a more general traffic agent simulator, while some papers focus on safety-critical behavior or scenario in particular. Welcome to contribute :)
 
 ## TODO
-- [ ] include related projects
-- [ ] add tag of time, conference or jounal if any
+- [ ] add genre of project
+- [ ] add tag of methods(eg, RL/IL) and publication source
+
 
 ## Workshops
 - CVPR2024 Workshop on Data-Driven Autonomous Driving Simulation.
