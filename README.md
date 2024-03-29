@@ -31,6 +31,7 @@ Papers related to data-driven traffic agent or traffic scene simulation for auto
 [Github](https://github.com/gaoyinfeng/PIWM)
 
 - HMSim: A Hierarchical Multi-Agent Learning-Based Simulator For Urban Driving Scenarios.
+[Paper](https://ml4ad.github.io/files/papers2023/Hierarchical%20Learning-Based%20Autonomy%20Simulator.pdf)
 [Project](https://sites.google.com/ucsd.edu/h-sim/home)
 
 - LitSim: Conflict-aware Policy for Long-term Interactive Traffic Simulation.
