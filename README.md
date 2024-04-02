@@ -19,6 +19,10 @@ Papers related to data-driven traffic agent or traffic scene simulation for auto
 ## Papers
 > Listed by order of time(not strictly)
 
+- CtRL-Sim: Reactive and Controllable Driving Agents with Offline Reinforcement Learning.
+[Project](https://montrealrobotics.ca/ctrlsim/)
+[arXiv](https://arxiv.org/abs/2403.19918)
+
 - SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models.
 [arXiv](https://arxiv.org/abs/2403.17933)
 [Github](https://github.com/autonomousvision/sledge)
