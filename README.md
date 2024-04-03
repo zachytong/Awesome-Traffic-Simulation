@@ -19,6 +19,9 @@ Papers related to data-driven traffic agent or traffic scene simulation for auto
 ## Papers
 > Listed by order of time(not strictly)
 
+- WcDT: World-centric Diffusion Transformer for Traffic Scene Generation.
+[arXiv](https://arxiv.org/abs/2404.02082)
+
 - CtRL-Sim: Reactive and Controllable Driving Agents with Offline Reinforcement Learning.
 [Project](https://montrealrobotics.ca/ctrlsim/)
 [arXiv](https://arxiv.org/abs/2403.19918)
