@@ -19,6 +19,9 @@ Papers related to data-driven traffic agent or traffic scene simulation for auto
 ## Papers
 > Listed by order of time(not strictly)
 
+- Enhancing Autonomous Vehicle Training with Language Model Integration and Critical Scenario Generation.
+[arXiv](https://arxiv.org/abs/2404.08570)
+
 - Versatile Scene-Consistent Traffic Scenario Generation as Optimization with Diffusion.
 [Project](https://sites.google.com/view/versatile-behavior-diffusion)
 [arXiv](https://arxiv.org/abs/2404.02524)
