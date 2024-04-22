@@ -19,6 +19,11 @@ Papers related to data-driven traffic agent or traffic scene simulation for auto
 ## Papers
 > Listed by order of time(not strictly)
 
+- Dragtraffic: A Non-Expert Interactive and Point-Based Controllable Traffic Scene Generation Framework.
+[Project](https://chantsss.github.io/Dragtraffic/)
+[arXiv](https://arxiv.org/abs/2404.12624)
+[Github](https://github.com/chantsss/Dragtraffic)
+
 - Enhancing Autonomous Vehicle Training with Language Model Integration and Critical Scenario Generation.
 [arXiv](https://arxiv.org/abs/2404.08570)
 
