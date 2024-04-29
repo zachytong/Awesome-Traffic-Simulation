@@ -24,6 +24,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- Scene-Extrapolation: Generating Interactive Traffic Scenarios.
+[arXiv](https://arxiv.org/abs/2404.17224)
+
 - Dragtraffic: A Non-Expert Interactive and Point-Based Controllable Traffic Scene Generation Framework.
 [Project](https://chantsss.github.io/Dragtraffic/)
 [arXiv](https://arxiv.org/abs/2404.12624)
