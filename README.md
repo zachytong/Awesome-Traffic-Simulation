@@ -24,6 +24,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- MRIC: Model-Based Reinforcement-Imitation Learning with Mixture-of-Codebooks for Autonomous Driving Simulation.
+[arXiv](https://arxiv.org/abs/2404.18464)
+
 - Scene-Extrapolation: Generating Interactive Traffic Scenarios.
 [arXiv](https://arxiv.org/abs/2404.17224)
 
