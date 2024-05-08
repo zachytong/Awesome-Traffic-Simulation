@@ -26,6 +26,7 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 
 - TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters.
 [arXiv](https://arxiv.org/abs/2405.04491)
+[Github](https://github.com/inverted-ai/torchdriveenv)
 
 - UniGen: Unified Modeling of Initial Agent States and Trajectories for Generating Autonomous Driving Scenarios.
 [arXiv](https://arxiv.org/abs/2405.03807)
