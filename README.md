@@ -1,5 +1,5 @@
 # Awesome-Traffic-Agent-Scene-Simulation-For-Autonomous-Driving
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.05.07-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.05.08-lightgrey.svg)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Papers related to data-driven traffic agent or traffic scene simulation for autonomous driving, including:
@@ -23,6 +23,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 
 ## Papers
 > Listed by order of time(not strictly)
+
+- UniGen: Unified Modeling of Initial Agent States and Trajectories for Generating Autonomous Driving Scenarios.
+[arXiv](https://arxiv.org/abs/2405.03807)
 
 - TSDiT: Traffic Scene Diffusion Models With Transformers.
 [arXiv](https://arxiv.org/abs/2405.02289)
