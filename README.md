@@ -27,6 +27,7 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 - SceneControl: Diffusion for Controllable Traffic Scene Generation.
 [Project](https://waabi.ai/scenecontrol/)
 [PDF](https://research-assets.waabi.ai/SceneControl/paper.pdf)
+[Poster](https://research-assets.waabi.ai/SceneControl/poster.pdf)
 
 - TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters.
 [arXiv](https://arxiv.org/abs/2405.04491)
