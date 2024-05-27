@@ -24,6 +24,8 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- BehaviorGPT: Smart Agent Simulation for Autonomous Driving with Next-Patch Prediction.
+
 - ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles.
 [arXiv](https://arxiv.org/abs/2405.14062)
 
