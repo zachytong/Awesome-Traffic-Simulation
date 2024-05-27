@@ -1,5 +1,5 @@
 # Awesome-Traffic-Agent-Scene-Simulation-For-Autonomous-Driving
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.05.08-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.05.27-lightgrey.svg)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Papers related to data-driven traffic agent or traffic scene simulation for autonomous driving, including:
@@ -23,6 +23,12 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 
 ## Papers
 > Listed by order of time(not strictly)
+
+- ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles.
+[arXiv](https://arxiv.org/abs/2405.14062)
+
+- SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction.
+[arXiv](https://arxiv.org/abs/2405.15677)
 
 - SceneControl: Diffusion for Controllable Traffic Scene Generation.
 [Project](https://waabi.ai/scenecontrol/)
