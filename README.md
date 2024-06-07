@@ -24,6 +24,10 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- Text-to-Drive: Diverse Driving Behavior Synthesis via Large Language Models.
+[Project](https://text-to-drive.github.io/)
+[arXiv](https://arxiv.org/abs/2406.04300)
+
 - BehaviorGPT: Smart Agent Simulation for Autonomous Driving with Next-Patch Prediction.
 [arXiv](https://arxiv.org/abs/2405.17372)
 
