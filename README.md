@@ -80,6 +80,7 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 - CtRL-Sim: Reactive and Controllable Driving Agents with Offline Reinforcement Learning.
 [Project](https://montrealrobotics.ca/ctrlsim/)
 [arXiv](https://arxiv.org/abs/2403.19918)
+[Github](https://github.com/montrealrobotics/ctrl-sim)
 
 - SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models.
 [arXiv](https://arxiv.org/abs/2403.17933)
