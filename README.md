@@ -24,6 +24,15 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- RACL: Risk Aware Closed-Loop Agent Simulation with High Fidelity.
+[Paper](https://agents4ad.github.io/assets/cvpr2024/papers/30.pdf)
+
+- SAFE-SIM: Safety-Critical Closed-Loop Traffic Simulation with Controllable Adversaries
+[arXiv](https://arxiv.org/pdf/2401.00391v2)
+
+- KnowMoformer: Knowledge-Conditioned Motion Transformer for Controllable Traffic Scenario Simulation.
+[Paper](https://agents4ad.github.io/assets/cvpr2024/papers/11.pdf)
+
 - GOOSE: Goal-Conditioned Reinforcement Learning for Safety-Critical Scenario Generation.
 [arXiv](https://arxiv.org/abs/2406.03870)
 
