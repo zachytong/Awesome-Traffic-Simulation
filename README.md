@@ -47,7 +47,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 [arXiv](https://arxiv.org/abs/2405.14062)
 
 - SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction.
+[Project](https://smart-motion.github.io/smart/)
 [arXiv](https://arxiv.org/abs/2405.15677)
+[Github](https://github.com/rainmaker22/SMART?tab=readme-ov-file)
 
 - SceneControl: Diffusion for Controllable Traffic Scene Generation.
 [Project](https://waabi.ai/scenecontrol/)
