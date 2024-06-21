@@ -56,6 +56,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 [PDF](https://research-assets.waabi.ai/SceneControl/paper.pdf)
 [Poster](https://research-assets.waabi.ai/SceneControl/poster.pdf)
 
+- Towards Interactive Autonomous Vehicle Testing: Vehicle-Under-Test-Centered Traffic Simulation.
+[arXiv](https://www.arxiv.org/abs/2406.02860)
+
 - TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters.
 [arXiv](https://arxiv.org/abs/2405.04491)
 [Github](https://github.com/inverted-ai/torchdriveenv)
