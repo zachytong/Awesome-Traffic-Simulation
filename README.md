@@ -24,6 +24,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking.
+[arXiv](https://arxiv.org/abs/2406.15349)
+
 - RACL: Risk Aware Closed-Loop Agent Simulation with High Fidelity.
 [Paper](https://agents4ad.github.io/assets/cvpr2024/papers/30.pdf)
 
