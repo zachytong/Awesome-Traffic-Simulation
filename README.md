@@ -24,6 +24,14 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- LCSim: A Large-Scale Controllable Traffic Simulator.
+[Project](https://tsinghua-fib-lab.github.io/LCSim/)
+[arXiv](https://arxiv.org/abs/2406.19781)
+[Github](https://github.com/tsinghua-fib-lab/LCSim)
+
+- Model Predictive Simulation Using Structured Graphical Models and Transformers.
+[arXiv](https://arxiv.org/abs/2406.19635)
+
 - NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking.
 [arXiv](https://arxiv.org/abs/2406.15349)
 
