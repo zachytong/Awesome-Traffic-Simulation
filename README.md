@@ -24,6 +24,10 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- About Generative model for Unified Motion Planning tasks.
+[arXiv](https://arxiv.org/abs/2407.02797)
+[Github](https://github.com/HorizonRobotics/GUMP/)
+
 - LCSim: A Large-Scale Controllable Traffic Simulator.
 [Project](https://tsinghua-fib-lab.github.io/LCSim/)
 [arXiv](https://arxiv.org/abs/2406.19781)
