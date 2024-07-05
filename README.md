@@ -190,6 +190,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 - DriveSceneGen: Generating Diverse and Realistic Driving Scenarios from Scratch.
 [arXiv](https://arxiv.org/abs/2309.14685)
 
+- TrafficMCTS: A Closed-Loop Traffic Flow Generation Framework with Group-Based Monte Carlo Tree Search.
+[arXiv](https://arxiv.org/abs/2308.12797)
+
 - SurrealDriver: Designing Generative Driver Agent Simulation Framework in Urban Contexts based on Large Language Model.
 [arXiv](https://arxiv.org/abs/2309.13193)
 
