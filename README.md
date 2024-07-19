@@ -24,6 +24,10 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- KiGRAS: Kinematic-Driven Generative Model for Realistic Agent Simulation.
+[arXiv](https://arxiv.org/abs/2407.12940)
+[Project](https://kigras-mach.github.io/KiGRAS/)
+
 - About Generative model for Unified Motion Planning tasks.
 [arXiv](https://arxiv.org/abs/2407.02797)
 [Github](https://github.com/HorizonRobotics/GUMP/)
