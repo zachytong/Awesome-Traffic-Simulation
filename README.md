@@ -28,7 +28,7 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 [arXiv](https://arxiv.org/abs/2407.12940)
 [Project](https://kigras-mach.github.io/KiGRAS/)
 
-- About Generative model for Unified Motion Planning tasks.
+- GUMP: Solving Motion Planning Tasks with a Scalable Generative Model.
 [arXiv](https://arxiv.org/abs/2407.02797)
 [Github](https://github.com/HorizonRobotics/GUMP/)
 
