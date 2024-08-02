@@ -24,6 +24,11 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving.
+[arXiv](https://arxiv.org/pdf/2408.00415)
+[Project](https://pjlab-adg.github.io/DriveArena/)
+[Github](https://github.com/PJLab-ADG/DriveArena)
+
 - KiGRAS: Kinematic-Driven Generative Model for Realistic Agent Simulation.
 [arXiv](https://arxiv.org/abs/2407.12940)
 [Project](https://kigras-mach.github.io/KiGRAS/)
