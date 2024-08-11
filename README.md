@@ -24,6 +24,10 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- GPUDrive: Data-driven, multi-agent driving simulation at 1 million FPS.
+[arXiv](https://arxiv.org/abs/2408.01584)
+[Github](https://github.com/Emerge-Lab/gpudrive)
+
 - DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving.
 [arXiv](https://arxiv.org/pdf/2408.00415)
 [Project](https://pjlab-adg.github.io/DriveArena/)
