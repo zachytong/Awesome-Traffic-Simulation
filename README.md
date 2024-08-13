@@ -33,6 +33,10 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 [Project](https://pjlab-adg.github.io/DriveArena/)
 [Github](https://github.com/PJLab-ADG/DriveArena)
 
+- Tactics2D: A Reinforcement Learning Environment Library with Generative Scenarios for Driving Decision-making.
+[arXiv](https://arxiv.org/pdf/2311.11058v2)
+[Github](https://github.com/WoodOxen/tactics2d)
+
 - KiGRAS: Kinematic-Driven Generative Model for Realistic Agent Simulation.
 [arXiv](https://arxiv.org/abs/2407.12940)
 [Project](https://kigras-mach.github.io/KiGRAS/)
