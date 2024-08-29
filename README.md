@@ -24,6 +24,11 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles
+[arXiv](https://arxiv.org/abs/2408.15538)
+[Project](https://qiaoguanren.github.io/trafficgamer-demo/)
+[Github](https://github.com/qiaoguanren/TrafficGamer)
+
 - GPUDrive: Data-driven, multi-agent driving simulation at 1 million FPS.
 [arXiv](https://arxiv.org/abs/2408.01584)
 [Github](https://github.com/Emerge-Lab/gpudrive)
