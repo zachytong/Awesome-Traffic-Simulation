@@ -1,5 +1,5 @@
 # Awesome-Traffic-Agent-Scene-Simulation-For-Autonomous-Driving
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.06.09-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.09.11-lightgrey.svg)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Papers related to data-driven traffic agent or traffic scene simulation for autonomous driving, including:
@@ -23,6 +23,10 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 
 ## Papers
 > Listed by order of time(not strictly)
+
+- Promptable Closed-loop Traffic Simulation.
+[arXiv](https://arxiv.org/abs/2409.05863)
+[Project](https://ariostgx.github.io/ProSim/)
 
 - TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles
 [arXiv](https://arxiv.org/abs/2408.15538)
