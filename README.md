@@ -15,6 +15,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 
 
 ## Workshops
+- IV 2024 Workshop SAFE-DRIVE: Data-Driven Simulations and Multi-Agent Interactions for Autonomous Vehicle Safety
+[Website](https://safeav.github.io/)
+
 - CVPR2024 Workshop on Data-Driven Autonomous Driving Simulation.
 [Website](https://agents4ad.github.io/)
 
