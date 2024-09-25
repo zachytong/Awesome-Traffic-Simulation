@@ -24,6 +24,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- Controllable Traffic Simulation through LLM-Guided Hierarchical Chain-of-Thought Reasoning.
+[arXiv](https://arxiv.org/abs/2409.15135)
+
 - ReGentS: Real-World Safety-Critical Driving Scenario Generation Made Stable.
 [arXiv](https://arxiv.org/abs/2409.07830)
 
