@@ -27,6 +27,11 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- SEAL: Towards Safe Autonomous Driving via Skill-Enabled Adversary Learning for Closed-Loop Scenario Generation.
+[arXiv](https://arxiv.org/abs/2409.10320)
+[Project](https://cmubig.github.io/seal/)
+[Code](https://github.com/cmubig/seal)
+
 - Controllable Traffic Simulation through LLM-Guided Hierarchical Chain-of-Thought Reasoning.
 [arXiv](https://arxiv.org/abs/2409.15135)
 
