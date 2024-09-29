@@ -1,5 +1,5 @@
 # Awesome-Traffic-Agent-Scene-Simulation-For-Autonomous-Driving
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.09.13-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.09.29-lightgrey.svg)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Papers related to data-driven traffic agent or traffic scene simulation for autonomous driving, including:
@@ -37,6 +37,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 
 - ReGentS: Real-World Safety-Critical Driving Scenario Generation Made Stable.
 [arXiv](https://arxiv.org/abs/2409.07830)
+
+- Realistic Extreme Behavior Generation for Improved AV Testing.
+[arXiv](https://arxiv.org/abs/2409.10669)
 
 - Promptable Closed-loop Traffic Simulation.
 [arXiv](https://arxiv.org/abs/2409.05863)
