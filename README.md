@@ -87,6 +87,7 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 
 - SAFE-SIM: Safety-Critical Closed-Loop Traffic Simulation with Controllable Adversaries
 [arXiv](https://arxiv.org/pdf/2401.00391v2)
+[Github](https://github.com/jxmmy7777/safe-sim)
 
 - KnowMoformer: Knowledge-Conditioned Motion Transformer for Controllable Traffic Scenario Simulation.
 [Paper](https://agents4ad.github.io/assets/cvpr2024/papers/11.pdf)
