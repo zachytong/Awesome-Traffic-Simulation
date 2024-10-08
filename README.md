@@ -29,7 +29,7 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 
 - Language-Driven Interactive Traffic Trajectory Generation.
 [arXiv](https://arxiv.org/abs/2405.15388)
-[Code](https://github.com/X1a-jk/InteractTraj)
+[Github](https://github.com/X1a-jk/InteractTraj)
 
 - Data-driven Diffusion Models for Enhancing Safety in Autonomous Vehicle Traffic Simulations.
 [arXiv](https://arxiv.org/abs/2410.04809)
@@ -37,7 +37,7 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 - SEAL: Towards Safe Autonomous Driving via Skill-Enabled Adversary Learning for Closed-Loop Scenario Generation.
 [arXiv](https://arxiv.org/abs/2409.10320)
 [Project](https://cmubig.github.io/seal/)
-[Code](https://github.com/cmubig/seal)
+[Github](https://github.com/cmubig/seal)
 
 - Controllable Traffic Simulation through LLM-Guided Hierarchical Chain-of-Thought Reasoning.
 [arXiv](https://arxiv.org/abs/2409.15135)
