@@ -27,6 +27,10 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- Language-Driven Interactive Traffic Trajectory Generation.
+[arXiv](https://arxiv.org/abs/2405.15388)
+[Code](https://github.com/X1a-jk/InteractTraj)
+
 - Data-driven Diffusion Models for Enhancing Safety in Autonomous Vehicle Traffic Simulations.
 [arXiv](https://arxiv.org/abs/2410.04809)
 
