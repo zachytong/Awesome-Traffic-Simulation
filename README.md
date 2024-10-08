@@ -27,6 +27,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- Improving Agent Behaviors with RL Fine-tuning for Autonomous Driving.
+[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03623.pdf)
+
 - Language-Driven Interactive Traffic Trajectory Generation.
 [arXiv](https://arxiv.org/abs/2405.15388)
 [Github](https://github.com/X1a-jk/InteractTraj)
