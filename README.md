@@ -27,6 +27,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- Data-driven Diffusion Models for Enhancing Safety in Autonomous Vehicle Traffic Simulations.
+[arXiv](https://arxiv.org/abs/2410.04809)
+
 - SEAL: Towards Safe Autonomous Driving via Skill-Enabled Adversary Learning for Closed-Loop Scenario Generation.
 [arXiv](https://arxiv.org/abs/2409.10320)
 [Project](https://cmubig.github.io/seal/)
