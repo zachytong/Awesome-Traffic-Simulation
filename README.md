@@ -27,6 +27,11 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- FREA: Feasibility-Guided Generation of Safety-Critical Scenarios with Reasonable Adversariality.
+[arXiv](https://arxiv.org/abs/2406.02983)
+[Project](https://currychen77.github.io/FREA/)
+[Code](https://github.com/CurryChen77/FREA)
+
 - AdvDiffuser: Generating Adversarial Safety-Critical Driving Scenarios via Guided Diffusion.
 [arXiv](https://arxiv.org/abs/2410.08453)
 
