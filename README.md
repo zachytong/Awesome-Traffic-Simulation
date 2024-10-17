@@ -5,7 +5,7 @@
 Papers related to data-driven traffic agent or traffic scene simulation for autonomous driving, including:
 - learning based traffic agent model(single agent and multi-agents)
 - traffic scene generation
-- advasarial trajectory and traffic scene generation
+- advesarial trajectory and traffic scene generation
 
 Some papers focus on a more general traffic agent simulator, while some papers focus on safety-critical behavior or scenario in particular. Welcome to contribute :)
 
@@ -37,6 +37,11 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 
 - Improving Agent Behaviors with RL Fine-tuning for Autonomous Driving.
 [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03623.pdf)
+
+- Traffic Scene Generation from Natural Language Description for Autonomous Vehicles with Large Language Model.
+[arXiv](https://arxiv.org/pdf/2409.09575)
+[Project](https://basiclab.github.io/TTSG/)
+[Code](https://github.com/basiclab/TTSG)
 
 - Language-Driven Interactive Traffic Trajectory Generation.
 [arXiv](https://arxiv.org/abs/2405.15388)
