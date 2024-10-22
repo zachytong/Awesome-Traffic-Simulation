@@ -67,6 +67,7 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 - Promptable Closed-loop Traffic Simulation.
 [arXiv](https://arxiv.org/abs/2409.05863)
 [Project](https://ariostgx.github.io/ProSim/)
+[Github](https://github.com/Ariostgx/ProSim)
 
 - TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles
 [arXiv](https://arxiv.org/abs/2408.15538)
