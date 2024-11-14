@@ -64,6 +64,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 - Realistic Extreme Behavior Generation for Improved AV Testing.
 [arXiv](https://arxiv.org/abs/2409.10669)
 
+- Adversarial and Reactive Traffic Agents for Realistic Driving Simulation.
+[arXiv](https://arxiv.org/abs/2409.14196)
+
 - Promptable Closed-loop Traffic Simulation.
 [arXiv](https://arxiv.org/abs/2409.05863)
 [Project](https://ariostgx.github.io/ProSim/)
