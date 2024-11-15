@@ -27,6 +27,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- DiffRoad: Realistic and Diverse Road Scenario Generation for Autonomous Vehicle Testing.
+[arXiv[(https://arxiv.org/abs/2411.09451)
+
 - FREA: Feasibility-Guided Generation of Safety-Critical Scenarios with Reasonable Adversariality.
 [arXiv](https://arxiv.org/abs/2406.02983)
 [Project](https://currychen77.github.io/FREA/)
