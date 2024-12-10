@@ -27,6 +27,11 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- Closed-Loop Supervised Fine-Tuning of Tokenized Traffic Models.
+[arXiv](https://arxiv.org/abs/2412.05334)
+[Project](https://zhejz.github.io/catk/)
+[Code](https://github.com/NVlabs/catk)
+
 - DiffRoad: Realistic and Diverse Road Scenario Generation for Autonomous Vehicle Testing.
 [arXiv](https://arxiv.org/abs/2411.09451)
 
