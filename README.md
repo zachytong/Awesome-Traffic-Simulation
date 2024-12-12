@@ -27,6 +27,10 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- GPD-1: Generative Pre-training for Driving.
+[arXiv](https://arxiv.org/abs/2412.08643)
+[Project](https://wzzheng.net/GPD/)
+
 - Closed-Loop Supervised Fine-Tuning of Tokenized Traffic Models.
 [arXiv](https://arxiv.org/abs/2412.05334)
 [Project](https://zhejz.github.io/catk/)
