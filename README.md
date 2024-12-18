@@ -27,6 +27,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- SceneDiffuser: Efficient and Controllable Driving Simulation Initialization and Rollout.
+[arXiv](https://arxiv.org/abs/2412.12129)
+
 - GPD-1: Generative Pre-training for Driving.
 [arXiv](https://arxiv.org/abs/2412.08643)
 [Project](https://wzzheng.net/GPD/)
