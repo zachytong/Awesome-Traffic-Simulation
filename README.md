@@ -27,6 +27,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- DeepMF: Deep Motion Factorization for Closed-Loop Safety-Critical Driving Scenario Simulation.
+[arXiv](https://arxiv.org/abs/2412.17487)
+
 - SceneDiffuser: Efficient and Controllable Driving Simulation Initialization and Rollout.
 [arXiv](https://arxiv.org/abs/2412.12129)
 
