@@ -27,6 +27,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- Robust Autonomy Emerges from Self-Play.
+[arXiv](https://arxiv.org/abs/2502.03349)
+
 - Causal Composition Diffusion Model for Closed-loop Traffic Generation.
 [arXiv](https://arxiv.org/abs/2412.17920)
 
