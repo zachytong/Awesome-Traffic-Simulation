@@ -27,6 +27,11 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- Decoupled Diffusion Sparks Adaptive Scene Generation.
+[arXiv](https://arxiv.org/abs/2504.10485)
+[Project](https://opendrivelab.com/Nexus/)
+[Code](https://github.com/OpenDriveLab/Nexus)
+
 - Robust Autonomy Emerges from Self-Play.
 [arXiv](https://arxiv.org/abs/2502.03349)
 
