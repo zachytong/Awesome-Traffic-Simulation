@@ -27,6 +27,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- LANGTRAJ: Diffusion Model and Dataset for Language-Conditioned Trajectory Simulation.
+[arXiv](https://arxiv.org/abs/2504.11521)
+
 - Decoupled Diffusion Sparks Adaptive Scene Generation.
 [arXiv](https://arxiv.org/abs/2504.10485)
 [Project](https://opendrivelab.com/Nexus/)
