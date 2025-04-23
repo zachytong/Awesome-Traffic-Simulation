@@ -38,6 +38,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 - Robust Autonomy Emerges from Self-Play.
 [arXiv](https://arxiv.org/abs/2502.03349)
 
+- Revisit Mixture Models for Multi-Agent Simulation: Experimental Study within a Unified Framework.
+[arXiv](https://arxiv.org/abs/2501.17015v1)
+
 - Causal Composition Diffusion Model for Closed-loop Traffic Generation.
 [arXiv](https://arxiv.org/abs/2412.17920)
 
