@@ -27,6 +27,10 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- Building reliable sim driving agents by scaling self-play.
+[arXiv](https://arxiv.org/abs/2502.14706)
+[Project](https://sites.google.com/view/reliable-sim-agents)
+
 - Safety-Critical Traffic Simulation with Guided Latent Diffusion Model.
 [arXiv](https://arxiv.org/abs/2505.00515)
 
