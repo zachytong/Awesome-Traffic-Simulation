@@ -27,6 +27,11 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- RIFT: Closed-Loop RL Fine-Tuning for Realistic and Controllable Traffic Simulation.
+[arXiv](https://arxiv.org/abs/2505.03344)
+[Project](https://currychen77.github.io/RIFT/)
+
+
 - Building reliable sim driving agents by scaling self-play.
 [arXiv](https://arxiv.org/abs/2502.14706)
 [Project](https://sites.google.com/view/reliable-sim-agents)
