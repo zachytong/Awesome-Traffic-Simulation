@@ -31,6 +31,8 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 [arXiv](https://arxiv.org/abs/2505.03344)
 [Project](https://currychen77.github.io/RIFT/)
 
+- RADE: Learning Risk-Adjustable Driving Environment via Multi-Agent Conditional Diffusion.
+[arXiv](https://arxiv.org/abs/2505.03178)
 
 - Building reliable sim driving agents by scaling self-play.
 [arXiv](https://arxiv.org/abs/2502.14706)
