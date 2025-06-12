@@ -27,6 +27,10 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- Adv-BMT: Bidirectional Motion Transformer for Safety-Critical Traffic Scenario Generation
+[arXiv](https://arxiv.org/abs/2506.09485)
+[Project](https://metadriverse.github.io/adv-bmt/)
+
 - RIFT: Closed-Loop RL Fine-Tuning for Realistic and Controllable Traffic Simulation.
 [arXiv](https://arxiv.org/abs/2505.03344)
 [Project](https://currychen77.github.io/RIFT/)
