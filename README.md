@@ -27,7 +27,11 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
-- Adv-BMT: Bidirectional Motion Transformer for Safety-Critical Traffic Scenario Generation
+- Long-term Traffic Simulation with Interleaved Autoregressive Motion and Scenario Generation.
+[arXiv](https://arxiv.org/abs/2506.17213)
+[Project](https://orangesodahub.github.io/InfGen/)
+
+- Adv-BMT: Bidirectional Motion Transformer for Safety-Critical Traffic Scenario Generation.
 [arXiv](https://arxiv.org/abs/2506.09485)
 [Project](https://metadriverse.github.io/adv-bmt/)
 
