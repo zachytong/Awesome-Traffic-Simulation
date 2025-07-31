@@ -27,6 +27,11 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes.
+[arXiv](https://arxiv.org/abs/2410.18084)
+[Project](https://dynamic-city.github.io)
+[Code](https://github.com/3DTopia/DynamicCity)
+
 - Generative Active Learning for Long-tail Trajectory Prediction via Controllable Diffusion Model.
 [arXiv](https://arxiv.org/abs/2507.22615)
 
