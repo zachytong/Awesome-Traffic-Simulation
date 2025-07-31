@@ -27,6 +27,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- Generative Active Learning for Long-tail Trajectory Prediction via Controllable Diffusion Model.
+[arXiv](https://arxiv.org/abs/2507.22615)
+
 - Long-term Traffic Simulation with Interleaved Autoregressive Motion and Scenario Generation.
 [arXiv](https://arxiv.org/abs/2506.17213)
 [Project](https://orangesodahub.github.io/InfGen/)
