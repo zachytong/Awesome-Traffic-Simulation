@@ -10,7 +10,7 @@ Papers related to data-driven traffic agent or traffic scene simulation for auto
 Some papers focus on a more general traffic agent simulator, while some papers focus on safety-critical behavior or scenario in particular. Welcome to contribute :)
 
 ## Challenges
-- Waymo Sim Agents: [2025](https://waymo.com/open/challenges/2025/sim-agents/), [2024](https://waymo.com/open/challenges/2024/sim-agents/)
+- Waymo Open Sim Agents Challenge: [2025](https://waymo.com/open/challenges/2025/sim-agents/), [2024](https://waymo.com/open/challenges/2024/sim-agents/)
 
 ## Workshops
 - IV 2024 Workshop SAFE-DRIVE: Data-Driven Simulations and Multi-Agent Interactions for Autonomous Vehicle Safety
