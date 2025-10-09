@@ -25,6 +25,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- DecompGAIL: Learning Realistic Traffic Behaviors with Decomposed Multi-Agent Generative Adversarial Imitation Learning.
+[arXiv](https://arxiv.org/abs/2510.06913)
+
 - Advancing Multi-agent Traffic Simulation via R1-Style Reinforcement Fine-Tuning.
 [arXiv](https://arxiv.org/abs/2509.23993v1)
 
