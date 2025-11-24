@@ -25,6 +25,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- MDG: Masked Denoising Generation for Multi-Agent Behavior Modeling in Traffic Environments.
+[arXiv](https://arxiv.org/abs/2511.17496)
+
 - DecompGAIL: Learning Realistic Traffic Behaviors with Decomposed Multi-Agent Generative Adversarial Imitation Learning.
 [arXiv](https://arxiv.org/abs/2510.06913)
 
