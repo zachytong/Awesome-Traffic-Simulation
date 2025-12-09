@@ -25,6 +25,10 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- Optimization-Guided Diffusion for Interactive Scene Generation.
+[arXiv](https://arxiv.org/abs/2512.07661)
+[Project](https://opendrivelab.com/OMEGA)
+
 - MDG: Masked Denoising Generation for Multi-Agent Behavior Modeling in Traffic Environments.
 [arXiv](https://arxiv.org/abs/2511.17496)
 
