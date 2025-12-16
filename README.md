@@ -25,6 +25,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- Post-Training and Test-Time Scaling of Generative Agent Behavior Models for Interactive Autonomous Driving.
+[arXiv](https://arxiv.org/abs/2512.13262)
+
 - Optimization-Guided Diffusion for Interactive Scene Generation.
 [arXiv](https://arxiv.org/abs/2512.07661)
 [Project](https://opendrivelab.com/OMEGA)
