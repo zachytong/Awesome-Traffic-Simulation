@@ -25,6 +25,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- SG-CADVLM: A Context-Aware Decoding Powered Vision Language Model for Safety-Critical Scenario Generation.
+[arXiv](https://arxiv.org/abs/2601.18442)
+
 - Post-Training and Test-Time Scaling of Generative Agent Behavior Models for Interactive Autonomous Driving.
 [arXiv](https://arxiv.org/abs/2512.13262)
 
