@@ -25,6 +25,10 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- InfGen: Scenario Generation as Next-Token-Group Prediction.
+[arXiv](https://arxiv.org/abs/2506.23316)
+[Porject](https://metadriverse.github.io/infgen/)
+
 - SG-CADVLM: A Context-Aware Decoding Powered Vision Language Model for Safety-Critical Scenario Generation.
 [arXiv](https://arxiv.org/abs/2601.18442)
 
@@ -43,7 +47,6 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 
 - Advancing Multi-agent Traffic Simulation via R1-Style Reinforcement Fine-Tuning.
 [arXiv](https://arxiv.org/abs/2509.23993v1)
-
 
 - DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes.
 [arXiv](https://arxiv.org/abs/2410.18084)
