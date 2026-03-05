@@ -25,6 +25,12 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- Map-Agnostic And Interactive Safety-Critical Scenario Generation via Multi-Objective Tree Search.
+[arXiv](https://arxiv.org/abs/2603.03978v1)
+
+- SaFeR: Safety-Critical Scenario Generation for Autonomous Driving Test via Feasibility-Constrained Token Resampling.
+[arXiv](https://arxiv.org/abs/2603.04071v1)
+
 - InfGen: Scenario Generation as Next-Token-Group Prediction.
 [arXiv](https://arxiv.org/abs/2506.23316)
 [Porject](https://metadriverse.github.io/infgen/)
