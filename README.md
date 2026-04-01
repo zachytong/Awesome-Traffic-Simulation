@@ -25,6 +25,9 @@ Some papers focus on a more general traffic agent simulator, while some papers f
 ## Papers
 > Listed by order of time(not strictly)
 
+- AutoWorld: Scaling Multi-Agent Traffic Simulation with Self-Supervised World Models
+[arXiv](https://arxiv.org/pdf/2603.28963)
+
 - Map-Agnostic And Interactive Safety-Critical Scenario Generation via Multi-Objective Tree Search.
 [arXiv](https://arxiv.org/abs/2603.03978v1)
 
