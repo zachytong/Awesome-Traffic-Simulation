@@ -1,0 +1,304 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1400" viewBox="0 0 1800 1400" role="img" aria-labelledby="title desc">
+  <title id="title">数据驱动交通仿真 2020-2026：问题、方法、效果与未来方向</title>
+  <desc id="desc">基于 Awesome Traffic Simulation README 中 135 篇论文的领域演进总结图。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FBFBFD"/>
+      <stop offset="1" stop-color="#F1F3F7"/>
+    </linearGradient>
+    <radialGradient id="haloBlue" cx="0.18" cy="0.08" r="0.55">
+      <stop offset="0" stop-color="#DCEBFF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#DCEBFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="haloPurple" cx="0.9" cy="0.05" r="0.48">
+      <stop offset="0" stop-color="#E9E0FF" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#E9E0FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#147CE5"/>
+      <stop offset="1" stop-color="#5AC8FA"/>
+    </linearGradient>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7D5FFF"/>
+      <stop offset="1" stop-color="#BF5AF2"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00A86B"/>
+      <stop offset="1" stop-color="#30D158"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF8A00"/>
+      <stop offset="1" stop-color="#FFCC00"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="20" flood-color="#17233A" flood-opacity="0.09"/>
+    </filter>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#17233A" flood-opacity="0.07"/>
+    </filter>
+    <style>
+      .font { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "PingFang SC", "Helvetica Neue", Arial, sans-serif; }
+      .eyebrow { font-size: 16px; font-weight: 700; letter-spacing: 2.2px; fill: #6E6E73; }
+      .title { font-size: 52px; font-weight: 700; letter-spacing: -1.8px; fill: #1D1D1F; }
+      .subtitle { font-size: 23px; font-weight: 400; fill: #6E6E73; }
+      .section { font-size: 26px; font-weight: 700; letter-spacing: -0.4px; fill: #1D1D1F; }
+      .cardTitle { font-size: 22px; font-weight: 700; fill: #1D1D1F; }
+      .cardText { font-size: 16px; font-weight: 400; fill: #5D616A; }
+      .small { font-size: 14px; font-weight: 500; fill: #7A7F89; }
+      .tiny { font-size: 12px; font-weight: 500; fill: #8A8F98; }
+      .metric { font-size: 34px; font-weight: 700; letter-spacing: -0.8px; fill: #1D1D1F; }
+      .metricLabel { font-size: 14px; font-weight: 600; fill: #7A7F89; }
+      .year { font-size: 18px; font-weight: 700; fill: #FFFFFF; }
+      .stageTitle { font-size: 20px; font-weight: 700; fill: #1D1D1F; }
+      .stageText { font-size: 15px; font-weight: 400; fill: #5D616A; }
+      .stageMeta { font-size: 13px; font-weight: 600; fill: #7A7F89; }
+      .pill { font-size: 13px; font-weight: 650; fill: #3A3D44; }
+      .futureNum { font-size: 15px; font-weight: 700; fill: #FFFFFF; }
+      .futureTitle { font-size: 17px; font-weight: 700; fill: #1D1D1F; }
+      .futureText { font-size: 14px; font-weight: 400; fill: #6E6E73; }
+    </style>
+  </defs>
+
+  <rect width="1800" height="1400" fill="url(#bg)"/>
+  <rect width="1800" height="620" fill="url(#haloBlue)"/>
+  <rect width="1800" height="620" fill="url(#haloPurple)"/>
+
+  <!-- Header -->
+  <g class="font">
+    <text x="100" y="88" class="eyebrow">FIELD SYNTHESIS · 135 PAPERS · 2020-2026</text>
+    <text x="100" y="154" class="title">数据驱动交通仿真</text>
+    <text x="100" y="214" class="title">从“学会开车”到“可验证的世界模型”</text>
+    <text x="100" y="262" class="subtitle">领域主线不是生成更多轨迹，而是在闭环中同时满足真实性、关键性、可控性、可扩展性与可信评估。</text>
+  </g>
+
+  <!-- Metrics -->
+  <g class="font" filter="url(#softShadow)">
+    <rect x="100" y="305" width="260" height="100" rx="24" fill="#FFFFFF" fill-opacity="0.86"/>
+    <text x="128" y="351" class="metric">7 年</text>
+    <text x="128" y="380" class="metricLabel">从行为策略到世界仿真器</text>
+
+    <rect x="380" y="305" width="260" height="100" rx="24" fill="#FFFFFF" fill-opacity="0.86"/>
+    <text x="408" y="351" class="metric">135 篇</text>
+    <text x="408" y="380" class="metricLabel">覆盖 2020-2026 的论文语料</text>
+
+    <rect x="660" y="305" width="260" height="100" rx="24" fill="#FFFFFF" fill-opacity="0.86"/>
+    <text x="688" y="351" class="metric">5 个</text>
+    <text x="688" y="380" class="metricLabel">长期未消失的核心矛盾</text>
+
+    <rect x="940" y="305" width="360" height="100" rx="24" fill="#FFFFFF" fill-opacity="0.86"/>
+    <text x="968" y="351" class="metric">1 个收敛点</text>
+    <text x="968" y="380" class="metricLabel">可控、可扩展、可验证的闭环世界模型</text>
+
+    <rect x="1320" y="305" width="380" height="100" rx="24" fill="#FFFFFF" fill-opacity="0.86"/>
+    <text x="1348" y="336" class="metricLabel">README 论文数量分布</text>
+    <g transform="translate(1348 366)">
+      <rect x="0" y="23" width="18" height="7" rx="3.5" fill="#B8C7E8"/>
+      <rect x="35" y="20" width="18" height="10" rx="3.5" fill="#A8BDE5"/>
+      <rect x="70" y="12" width="18" height="18" rx="3.5" fill="#8FADE0"/>
+      <rect x="105" y="-1" width="18" height="31" rx="3.5" fill="#6E9BDB"/>
+      <rect x="140" y="-30" width="18" height="60" rx="3.5" fill="#147CE5"/>
+      <rect x="175" y="3" width="18" height="27" rx="3.5" fill="#7D5FFF"/>
+      <rect x="210" y="-4" width="18" height="34" rx="3.5" fill="#BF5AF2"/>
+      <text x="0" y="48" class="tiny">20</text>
+      <text x="35" y="48" class="tiny">21</text>
+      <text x="70" y="48" class="tiny">22</text>
+      <text x="105" y="48" class="tiny">23</text>
+      <text x="140" y="48" class="tiny">24</text>
+      <text x="175" y="48" class="tiny">25</text>
+      <text x="210" y="48" class="tiny">26</text>
+    </g>
+  </g>
+
+  <!-- Evolution timeline -->
+  <g class="font">
+    <text x="100" y="470" class="section">演进主线</text>
+    <text x="245" y="470" class="small">问题定义、方法范式与“有效”的含义同时发生变化</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="100" y="500" width="1600" height="360" rx="34" fill="#FFFFFF" fill-opacity="0.93"/>
+  </g>
+  <line x1="180" y1="606" x2="1620" y2="606" stroke="#D9DEE8" stroke-width="3"/>
+  <circle cx="280" cy="606" r="10" fill="#147CE5"/>
+  <circle cx="675" cy="606" r="10" fill="#7D5FFF"/>
+  <circle cx="1070" cy="606" r="10" fill="#BF5AF2"/>
+  <circle cx="1465" cy="606" r="10" fill="#00A86B"/>
+
+  <!-- Stage 1 -->
+  <g class="font">
+    <rect x="180" y="538" width="118" height="38" rx="19" fill="url(#blue)"/>
+    <text x="239" y="563" class="year" text-anchor="middle">2020-2021</text>
+    <text x="180" y="650" class="stageTitle">行为学习与对抗搜索</text>
+    <text x="180" y="682" class="stageMeta">主要问题</text>
+    <text x="180" y="706" class="stageText">让背景车不再是脚本；高效找到会失败的场景</text>
+    <text x="180" y="742" class="stageMeta">主要方法</text>
+    <text x="180" y="766" class="stageText">模仿学习 / 强化学习 / 梯度或搜索式扰动</text>
+    <text x="180" y="802" class="stageMeta">效果变化</text>
+    <text x="180" y="826" class="stageText">从“回放日志”走向“可反应的学习型交通参与者”</text>
+    <text x="180" y="848" class="tiny">TrafficSim · AdvSim · Learning to Collide</text>
+  </g>
+
+  <!-- Stage 2 -->
+  <g class="font">
+    <rect x="575" y="538" width="118" height="38" rx="19" fill="url(#purple)"/>
+    <text x="634" y="563" class="year" text-anchor="middle">2022-2023</text>
+    <text x="575" y="650" class="stageTitle">结构化、场景级、可控生成</text>
+    <text x="575" y="682" class="stageMeta">主要问题</text>
+    <text x="575" y="706" class="stageText">多车交互、多模态、多样性与场景初始化</text>
+    <text x="575" y="742" class="stageMeta">主要方法</text>
+    <text x="575" y="766" class="stageText">层级策略 / 显式关系 / 扩散 / 语言与 STL 引导</text>
+    <text x="575" y="802" class="stageMeta">效果变化</text>
+    <text x="575" y="826" class="stageText">从单车行为生成扩展到可编辑的完整交通场景</text>
+    <text x="575" y="848" class="tiny">BITS · TrafficGen · CTG / CTG++ · Waymax</text>
+  </g>
+
+  <!-- Stage 3 -->
+  <g class="font">
+    <rect x="970" y="538" width="78" height="38" rx="19" fill="url(#purple)"/>
+    <text x="1009" y="563" class="year" text-anchor="middle">2024</text>
+    <text x="970" y="650" class="stageTitle">基础模型范式集中爆发</text>
+    <text x="970" y="682" class="stageMeta">主要问题</text>
+    <text x="970" y="706" class="stageText">闭环长时稳定、实时性、语义控制、全栈场景</text>
+    <text x="970" y="742" class="stageMeta">主要方法</text>
+    <text x="970" y="766" class="stageText">Token / Patch 自回归 · Prompt · LLM · GPU · 4D</text>
+    <text x="970" y="802" class="stageMeta">效果变化</text>
+    <text x="970" y="826" class="stageText">实时、多智能体、可提示的仿真器成为主流目标</text>
+    <text x="970" y="848" class="tiny">SMART · BehaviorGPT · ProSim · GPUDrive · SceneDiffuser</text>
+  </g>
+
+  <!-- Stage 4 -->
+  <g class="font">
+    <rect x="1365" y="538" width="118" height="38" rx="19" fill="url(#green)"/>
+    <text x="1424" y="563" class="year" text-anchor="middle">2025-2026</text>
+    <text x="1365" y="650" class="stageTitle">后训练与可验证世界仿真器</text>
+    <text x="1365" y="682" class="stageMeta">主要问题</text>
+    <text x="1365" y="706" class="stageText">数据规模、稀有失败、物理可行与评估可信度</text>
+    <text x="1365" y="742" class="stageMeta">主要方法</text>
+    <text x="1365" y="766" class="stageText">自博弈 / RLFT / 自监督世界模型 / 约束 / Agentic</text>
+    <text x="1365" y="802" class="stageMeta">效果变化</text>
+    <text x="1365" y="826" class="stageText">从单指标优化走向真实性-关键性 Pareto 前沿</text>
+    <text x="1365" y="848" class="tiny">RIFT · InfGen · AutoWorld · RLFTSim · EvoDrive</text>
+  </g>
+
+  <!-- Lower panels -->
+  <g class="font">
+    <text x="100" y="940" class="section">长期核心问题</text>
+    <text x="650" y="940" class="section">方法栈如何叠加</text>
+    <text x="1200" y="940" class="section">未来主要方向</text>
+  </g>
+
+  <!-- Problems panel -->
+  <g filter="url(#softShadow)">
+    <rect x="100" y="970" width="500" height="340" rx="30" fill="#FFFFFF" fill-opacity="0.94"/>
+  </g>
+  <g class="font">
+    <g transform="translate(130 1005)">
+      <rect width="440" height="48" rx="16" fill="#F5F8FD"/>
+      <circle cx="24" cy="24" r="8" fill="#147CE5"/>
+      <text x="46" y="21" class="cardTitle" font-size="17">真实性 vs. 关键性</text>
+      <text x="46" y="40" class="tiny">越容易撞车，越可能不像真实驾驶者</text>
+    </g>
+    <g transform="translate(130 1063)">
+      <rect width="440" height="48" rx="16" fill="#F8F6FD"/>
+      <circle cx="24" cy="24" r="8" fill="#7D5FFF"/>
+      <text x="46" y="21" class="cardTitle" font-size="17">闭环稳定 vs. 多样探索</text>
+      <text x="46" y="40" class="tiny">长时 rollout 会放大误差，保守策略又失去覆盖率</text>
+    </g>
+    <g transform="translate(130 1121)">
+      <rect width="440" height="48" rx="16" fill="#FDF7F2"/>
+      <circle cx="24" cy="24" r="8" fill="#FF9F0A"/>
+      <text x="46" y="21" class="cardTitle" font-size="17">语义可控 vs. 物理可行</text>
+      <text x="46" y="40" class="tiny">用户意图、交通规则与车辆动力学必须同时成立</text>
+    </g>
+    <g transform="translate(130 1179)">
+      <rect width="440" height="48" rx="16" fill="#F3FAF6"/>
+      <circle cx="24" cy="24" r="8" fill="#00A86B"/>
+      <text x="46" y="21" class="cardTitle" font-size="17">规模吞吐 vs. 保真度</text>
+      <text x="46" y="40" class="tiny">百万 FPS、复杂交互、感知与动力学之间仍需取舍</text>
+    </g>
+    <g transform="translate(130 1237)">
+      <rect width="440" height="48" rx="16" fill="#F7F7F8"/>
+      <circle cx="24" cy="24" r="8" fill="#636366"/>
+      <text x="46" y="21" class="cardTitle" font-size="17">覆盖率 vs. 可信评估</text>
+      <text x="46" y="40" class="tiny">“发现更多失败”不等于“发现真实且可归因的失败”</text>
+    </g>
+  </g>
+
+  <!-- Method stack panel -->
+  <g filter="url(#softShadow)">
+    <rect x="650" y="970" width="500" height="340" rx="30" fill="#FFFFFF" fill-opacity="0.94"/>
+  </g>
+  <g class="font">
+    <line x1="700" y1="1020" x2="700" y2="1266" stroke="#D9DEE8" stroke-width="3"/>
+    <circle cx="700" cy="1020" r="9" fill="#147CE5"/>
+    <circle cx="700" cy="1068" r="9" fill="#4F8FE8"/>
+    <circle cx="700" cy="1116" r="9" fill="#7D5FFF"/>
+    <circle cx="700" cy="1164" r="9" fill="#A85FF8"/>
+    <circle cx="700" cy="1212" r="9" fill="#00A86B"/>
+    <circle cx="700" cy="1260" r="9" fill="#30D158"/>
+
+    <text x="730" y="1026" class="futureTitle">策略学习</text>
+    <text x="858" y="1026" class="futureText">IL / RL 学习真实、反应式驾驶行为</text>
+    <text x="730" y="1074" class="futureTitle">结构化交互</text>
+    <text x="858" y="1074" class="futureText">图关系、博弈、层级决策与规则约束</text>
+    <text x="730" y="1122" class="futureTitle">生成式场景</text>
+    <text x="858" y="1122" class="futureText">Diffusion / Flow 统一初始化与轨迹生成</text>
+    <text x="730" y="1170" class="futureTitle">Token 世界模型</text>
+    <text x="858" y="1170" class="futureText">自回归、长上下文、实时多智能体 rollout</text>
+    <text x="730" y="1218" class="futureTitle">闭环后训练</text>
+    <text x="858" y="1218" class="futureText">Self-play / RLFT / Test-time scaling</text>
+    <text x="730" y="1266" class="futureTitle">验证与自改进</text>
+    <text x="858" y="1266" class="futureText">因果、责任归因、形式约束与 Agentic evolution</text>
+  </g>
+
+  <!-- Future panel -->
+  <g filter="url(#softShadow)">
+    <rect x="1200" y="970" width="500" height="340" rx="30" fill="#FFFFFF" fill-opacity="0.94"/>
+  </g>
+  <g class="font">
+    <g transform="translate(1230 1005)">
+      <circle cx="18" cy="18" r="18" fill="url(#blue)"/>
+      <text x="18" y="23" class="futureNum" text-anchor="middle">1</text>
+      <text x="52" y="15" class="futureTitle">可验证的基础仿真模型</text>
+      <text x="52" y="35" class="futureText">统一感知、场景、行为与物理，同时输出不确定性</text>
+    </g>
+    <g transform="translate(1230 1063)">
+      <circle cx="18" cy="18" r="18" fill="url(#purple)"/>
+      <text x="18" y="23" class="futureNum" text-anchor="middle">2</text>
+      <text x="52" y="15" class="futureTitle">因果与责任归因的安全场景</text>
+      <text x="52" y="35" class="futureText">区分系统缺陷、不可避免冲突与不真实对抗行为</text>
+    </g>
+    <g transform="translate(1230 1121)">
+      <circle cx="18" cy="18" r="18" fill="url(#orange)"/>
+      <text x="18" y="23" class="futureNum" text-anchor="middle">3</text>
+      <text x="52" y="15" class="futureTitle">统一的控制接口</text>
+      <text x="52" y="35" class="futureText">语言 + 约束 + 风险 + 轨迹，转为可执行闭环场景</text>
+    </g>
+    <g transform="translate(1230 1179)">
+      <circle cx="18" cy="18" r="18" fill="url(#green)"/>
+      <text x="18" y="23" class="futureNum" text-anchor="middle">4</text>
+      <text x="52" y="15" class="futureTitle">持续闭环后训练</text>
+      <text x="52" y="35" class="futureText">仿真器与被测系统共同进化，但保持人类行为校准</text>
+    </g>
+    <g transform="translate(1230 1237)">
+      <circle cx="18" cy="18" r="18" fill="#636366"/>
+      <text x="18" y="23" class="futureNum" text-anchor="middle">5</text>
+      <text x="52" y="15" class="futureTitle">统一评测与跨域校准</text>
+      <text x="52" y="35" class="futureText">从分布相似度转向策略影响、覆盖率与现实迁移</text>
+    </g>
+  </g>
+
+  <!-- Footer insight -->
+  <g class="font">
+    <text x="100" y="1362" class="eyebrow">EVALUATION SHIFT</text>
+    <text x="305" y="1362" class="cardText">开环预测准确</text>
+    <text x="435" y="1362" class="cardText">→</text>
+    <text x="475" y="1362" class="cardText">闭环真实性</text>
+    <text x="590" y="1362" class="cardText">→</text>
+    <text x="630" y="1362" class="cardText">安全关键覆盖</text>
+    <text x="760" y="1362" class="cardText">→</text>
+    <text x="800" y="1362" class="cardText">对被测策略的影响</text>
+    <text x="960" y="1362" class="cardText">→</text>
+    <text x="1000" y="1362" class="cardText">因果有效性与现实迁移</text>
+    <text x="1700" y="1362" class="tiny" text-anchor="end">Source: Awesome-Traffic-Simulation README · generated 2026-06-04</text>
+  </g>
+</svg>

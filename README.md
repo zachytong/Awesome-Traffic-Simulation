@@ -1,4 +1,7 @@
 # Awesome-Traffic-Agent-Scene-Simulation-For-Autonomous-Driving
+
+[![Data-driven traffic simulation evolution from 2020 to 2026](traffic_simulation_evolution_2020_2026.svg)](traffic_simulation_evolution_2020_2026.svg)
+
 ![LastUpdated](https://img.shields.io/badge/LastUpdated-2026.06.04-lightgrey.svg)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
